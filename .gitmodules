@@ -15,3 +15,7 @@
 	path = Lab3
 	url = https://github.com/GreyLake/Lab3.git
 	branch = main
+[submodule "Lab4"]
+	path = Lab4
+	url = https://github.com/GreyLake/Lab4.git
+	branch = main
