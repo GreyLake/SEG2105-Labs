@@ -1,12 +1,16 @@
 [submodule "Lab0"]
 	path = Lab0
 	url = https://github.com/GreyLake/Lab0.git
+	branch = main
 [submodule "Lab1"]
 	path = Lab1
 	url = https://github.com/GreyLake/Lab1.git
+	branch = main
 [submodule "Lab2"]
 	path = Lab2
 	url = https://github.com/GreyLake/Lab2.git
+	branch = main
 [submodule "Lab3"]
 	path = Lab3
 	url = https://github.com/GreyLake/Lab3.git
+	branch = main
